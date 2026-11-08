@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+tmp/
+.DS_Store
+SCREENSHOTS.txt
+results/logs/
+results/snapshots/
+scripts/run.sh
